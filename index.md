@@ -7,12 +7,12 @@
 
 
 #### Android studio download
-https://developer.android.com/studio
+<li><a href="https://developer.android.com/studio">Android Studio</a></li>
 
 
 #### Developer guide to start 
 
-https://developer.android.com/guide
+<li><a href="https://developer.android.com/guide">Developer Guide</a></li>
 
 #### Best MOOC courses
 
