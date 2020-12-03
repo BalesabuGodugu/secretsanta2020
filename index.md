@@ -2,7 +2,7 @@
 
 
 
-### Android Development setup && resources
+### Android Development setup & resources
 
 
 
